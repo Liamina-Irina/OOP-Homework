@@ -1,5 +1,4 @@
-package homeworkSeven;
-import homeworkSeven.ComplexNumber;
+package homeworkSeven.calculator;
 
 public interface Calculable {
     void sum(ComplexNumber arg);

@@ -1,6 +1,4 @@
-package homeworkSeven;
-import homeworkSeven.Calculable;
-import homeworkSeven.ComplexNumber;
+package homeworkSeven.calculator;
 
 public class Calculator implements Calculable {
 

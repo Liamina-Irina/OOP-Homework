@@ -1,5 +1,9 @@
 package homeworkSeven;
 
+import homeworkSeven.calculator.Calculable;
+import homeworkSeven.calculator.ComplexNumber;
+import homeworkSeven.calculator.ICalculableFactory;
+
 import java.util.Scanner;
 
 public class ViewCalculator {

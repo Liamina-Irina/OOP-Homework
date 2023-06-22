@@ -1,4 +1,4 @@
-package homeworkSeven;
+package homeworkSeven.calculator;
 
 public class ComplexNumber {
 
